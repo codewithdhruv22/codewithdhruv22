@@ -25,7 +25,7 @@
 - 🔭 I’m currently learning [Flutter App Development](https://github.com/codewithdhruv22/P02_MausamWeatherApp).
 - 🌱 I’m currently learning more about App Development, Game Development, ML & Robotics.
 - 💬 Ask me about Web Development or any tech related stuff.
-- 📫 How to reach me:  [WhatsApp - Pratham Wanmode](https://wa.me/918305393179)
+- 📫 How to reach me:  [WhatsApp - Dhananjay Arne](https://wa.me/918305393179)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 15 hour to solve a bug😑
 - 💻 Founded [OnRent1](https://onrent1.com), [GiveMeVaccine](https://givemevaccine.in),[Code With Dhruv](https://www.youtube.com/channel/UCmOBuijDvNgUMlqpzrwEBcw)
